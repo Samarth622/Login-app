@@ -24,5 +24,8 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack login application 
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Samarth622/Login-app.git
 ```
+### Configure environment variables
+- Create a .env file in the root directory
+- Add necessary environment variables such as MongoDB URI, JWT secret key, email service credentials, etc
